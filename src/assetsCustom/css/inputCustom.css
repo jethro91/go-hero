@@ -1,0 +1,47 @@
+/*Input icon with clear times*/
+.input-icon {
+  position: relative;
+}
+
+.input-icon.right > i {
+  right: 8px;
+  float: right;
+}
+
+.input-icon > i {
+  color: #ccc;
+  display: inline-block;
+  position: absolute;
+  margin: 11px 2px 4px 10px;
+  z-index: 3;
+  width: 16px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.input-icon > i.sm {
+  color: #ccc;
+  display: inline-block;
+  position: absolute;
+  margin: 8px 2px 4px 10px;
+  z-index: 4;
+  width: 16px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+}
+
+/*jet- showing*/
+/* .jet-show {
+  width: 412px;
+}
+.jet-show > div > select.form-control {
+  width: 74px;
+}
+.jet-show > div > span.input-group-btn {
+  width: 338px;
+}
+.jet-show > div > span.input-group-btn > button {
+  cursor: auto;
+} */

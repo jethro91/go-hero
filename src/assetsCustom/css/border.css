@@ -1,0 +1,20 @@
+/*Border*/
+.b-none {
+  border: none !important;
+}
+
+.b-t-none {
+    border-top: none !important;
+}
+
+.b-b-none {
+    border-bottom: none !important;
+}
+
+.b-l-none {
+    border-left: none !important;
+}
+
+.b-r-none {
+    border-right: none !important;
+}

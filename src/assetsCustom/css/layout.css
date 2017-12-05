@@ -1,0 +1,43 @@
+.app {
+  text-align: center;
+}
+
+.app-logo {
+  height: 45px;
+  vertical-align: baseline;
+}
+
+.app-header {
+  background-color: #222;
+  padding: 10px;
+  color: #fff;
+  font-size: 34px;
+  font-weight: 600;
+}
+
+.sub-title {
+  font-size: 20px;
+}
+
+.nav-active > a {
+  color: #8cc63f !important;
+}
+
+.nav-active > button {
+  color: #8cc63f !important;
+}
+
+.page-wrapper {
+  margin: 0px 20px 20px 20px;
+  text-align: left;
+}
+
+.img-thumb {
+  width: 60px;
+  height: auto;
+}
+
+.img-character {
+  height: 250px;
+  width: auto;
+}

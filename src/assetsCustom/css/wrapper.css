@@ -1,0 +1,43 @@
+/*ibox wrapper Child content lebih bagus className="ibox-content p-md"*/
+.jet-center-block {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jet-ibox-wrapper {
+  margin-left: -6px;
+  margin-right: -6px;
+}
+
+/*Valign Middle table*/
+.jet-align-middle > tr > th {
+  vertical-align: middle !important;
+}
+
+.jet-align-middle > tr > td {
+  vertical-align: middle !important;
+}
+
+.jet-align-middle > thead > tr > th {
+  vertical-align: middle !important;
+}
+
+.jet-align-middle > thead > tr > td {
+  vertical-align: middle !important;
+}
+
+.jet-align-middle > tbody > tr > th {
+  vertical-align: middle !important;
+}
+
+.jet-align-middle > tbody > tr > td {
+  vertical-align: middle !important;
+}
+
+.jet-align-middle > tfoot > tr > th {
+  vertical-align: middle !important;
+}
+
+.jet-align-middle > tfoot > tr > td {
+  vertical-align: middle !important;
+}
